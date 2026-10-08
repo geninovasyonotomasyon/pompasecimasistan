@@ -1,0 +1,6 @@
+{
+  "name": "Dalgıç Pompa Seçim Danışmanı",
+  "description": "Gen İnovasyon Otomasyon'un yapay zeka destekli profesyonel dalgıç pompa, motor, elektrik panosu ve yardımcı ekipman seçim danışmanı uygulaması.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
